@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0015-3sum) |
 | [0898-transpose-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0898-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
