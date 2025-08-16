@@ -88,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0982-minimum-increment-to-make-array-unique) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
