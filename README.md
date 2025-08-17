@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 ## Array
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0016-3sum-closest) |
+| [0048-rotate-image](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0898-transpose-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0898-transpose-matrix) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0898-transpose-matrix) |
 ## Simulation
