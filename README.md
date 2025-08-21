@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0072-edit-distance) |
 | [0646-maximum-length-of-pair-chain](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0072-edit-distance) |
 ## Sliding Window
 |  |
 | ------- |
