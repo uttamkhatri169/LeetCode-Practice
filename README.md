@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 ## Array
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0072-edit-distance) |
 | [0646-maximum-length-of-pair-chain](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/1013-fibonacci-number) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
