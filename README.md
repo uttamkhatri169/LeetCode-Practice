@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
+| [0162-find-peak-element](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0646-maximum-length-of-pair-chain](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0898-transpose-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0898-transpose-matrix) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
