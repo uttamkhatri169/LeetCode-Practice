@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0162-find-peak-element](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0164-maximum-gap) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0898-transpose-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0898-transpose-matrix) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0164-maximum-gap](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0164-maximum-gap) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Dynamic Programming
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0162-find-peak-element) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0164-maximum-gap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
