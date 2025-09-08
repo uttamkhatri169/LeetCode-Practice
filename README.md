@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/1013-fibonacci-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Array
 |  |
 | ------- |
