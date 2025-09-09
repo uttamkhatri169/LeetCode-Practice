@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0898-transpose-matrix) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0072-edit-distance) |
 | [0646-maximum-length-of-pair-chain](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/1013-fibonacci-number) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Recursion
 |  |
 | ------- |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
