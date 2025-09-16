@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0162-find-peak-element](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0164-maximum-gap) |
+| [0238-product-of-array-except-self](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0898-transpose-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0898-transpose-matrix) |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
