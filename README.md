@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0162-find-peak-element](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0162-find-peak-element) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
