@@ -147,11 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0072-edit-distance) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
 | ------- |
