@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/1013-fibonacci-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0898-transpose-matrix) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Stack
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0231-power-of-two) |
 ## Counting
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0072-edit-distance) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sliding Window
