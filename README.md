@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0072-edit-distance) |
+| [0242-valid-anagram](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/0316-remove-duplicate-letters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/uttamkhatri169/LeetCode-Practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sliding Window
